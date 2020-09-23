@@ -1,0 +1,17 @@
+
+#The JavaScript Starter Kit Manifesto https://www.youtube.com/watch?v=jubd2opc4Ps
+#Editor VS Code
+#Editor config - Editor config for VS code
+#Web dev server - Live server
+#Share WIP - Local tunnel (?)
+#Automation approach - NPM
+#Transpiler - (?)
+#Module format - ES6 modules
+#Bundler - Webpack
+#Linter - ES Lint
+#Test framework -   Chai
+#CI server (Travis)?  --> DevOps
+#HTTP calls - fetch
+#Mock approach - JSON Server
+#Demo app
+#Automated build and deploy
